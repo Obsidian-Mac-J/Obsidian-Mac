@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/345189/m/obsidian-screenshot.png?v=1663320904" alt="Obsidian screenshot"/>
+  <img src="https://i.redd.it/ibyat785nug81.png" alt="Obsidian screenshot"/>
 </p>
 
 ---
